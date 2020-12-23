@@ -1,0 +1,123 @@
+
+<html>
+<head>
+<title>Assignment</title>
+
+<style>
+div.upper {background-color:grey; height:200px; width:436px; border:3px solid black}
+div.middle{background-color:grey; height:200px; width:655px; border:3px solid black}
+div.middlu{background-color:grey; height:200px; width:1325px; border:3px solid black }
+div.lower{background-color:grey; height:200px; width:1325px; border:3px solid black }
+
+h4{float:right; margin:0px; padding:0px; font-size:25px; background-color:pink;   border:1px solid black;               height:30px;  padding-top:10px;}
+h5{float:right; margin:0px; padding:0px; font-size:25px; background-color:red;    border:1px solid black; color: white; height:30px;  padding-top:10px;}
+h6{float:right; margin:0px; padding:0px; font-size:25px; background-color:yellow; border:1px solid black;               height:30px;   padding-top:10px;}
+p {font-size:20px; margin:5px; padding:10px;}
+</style>
+
+</head>
+
+
+<body><br><br>
+<center><h1>Our Menu</h1></center>
+
+<table>
+<tr>
+<td>
+<div class="upper">
+<h4>&nbsp; &nbsp; &nbsp; Chicken &nbsp; &nbsp; &nbsp; </h4>
+<br><br><br>
+<p>Enforcement of the Eating Constitution on January delegates. Thousands of people visit the ground to be a spectator of the spectacle representing stomatch and health richness of the body.</p>
+</div>
+</td>
+<td>
+<div class="upper">
+<h5>&nbsp; &nbsp; &nbsp; Beef &nbsp; &nbsp; &nbsp; </h5>
+<br><br><br>
+<p>Enforcement of the Eating Constitution on January delegates. Thousands of people visit the ground to be a spectator of the spectacle representing stomatch and health richness of the body.</p>
+</div>
+</td>
+<td>
+<div class="upper">
+<h6>&nbsp; &nbsp; &nbsp; Sushi  &nbsp; &nbsp; &nbsp; </h6>
+<br><br><br>
+<p>Enforcement of the Eating Constitution on January delegates. Thousands of people visit the ground to be a spectator of the spectacle representing stomatch and health richness of the body.</p>
+</div>
+</td>
+</tr>
+</table>
+
+<br><br><br><br><br><br><hr><br><br><br>
+
+<center><h1>Our Menu</h1></center>
+<table>
+<tr>
+<td>
+<div class="middle">
+<h4>&nbsp; &nbsp; &nbsp; Chicken &nbsp; &nbsp; &nbsp; </h4>
+<br><br><br>
+<p>Enforcement of the Eating Constitution on January delegates. Thousands of people visit the ground to be a spectator of the spectacle representing stomatch and health richness of the body.</p>
+</div>
+</td>
+<td>
+<div class="middle">
+<h5>&nbsp; &nbsp; &nbsp; Beef &nbsp; &nbsp; &nbsp; </h5>
+<br><br><br>
+<p>Enforcement of the Eating Constitution on January delegates. Thousands of people visit the ground to be a spectator of the spectacle representing stomatch and health richness of the body.</p>
+</div>
+</td>
+</tr>
+</table>
+<br>
+<div class="middlu">
+<h6>&nbsp; &nbsp; &nbsp; Sushi &nbsp; &nbsp; &nbsp; </h6>
+<br><br><br>
+<p>Enforcement of the Eating Constitution on January delegates. Thousands of people visit the ground to be a spectator of the spectacle representing stomatch and health richness of the body.Enforcement of the Eating Constitution on January delegates. Thousands of people visit the ground to be a spectator of the spectacle representing stomatch and health richness of the body.Enforcement of the Eating Constitution on January delegates. Thousands of people visit the ground to be a spectator of the spectacle representing stomatch and health richness of the body.</p>
+</div>
+
+
+<br><br><br><br><br><br><hr><br><br><br>
+<center><h1>Our Menu</h1></center>
+
+
+<table>
+<tr>
+<td>
+<div class="lower">
+<h4>&nbsp; &nbsp; &nbsp; Chicken &nbsp; &nbsp; &nbsp; </h4>
+<br><br><br>
+<p>Enforcement of the Eating Constitution on January delegates. Thousands of people visit the ground to be a spectator of the spectacle representing stomatch and health richness of the body.Enforcement of the Eating Constitution on January delegates. Thousands of people visit the ground to be a spectator of the spectacle representing stomatch and health richness of the body.Enforcement of the Eating Constitution on January delegates. Thousands of people visit the ground to be a spectator of the spectacle representing stomatch and health richness of the body.</p>
+</div>
+</td>
+</tr>
+<br>
+
+<tr>
+<td><br>
+<div class="lower">
+<h5>&nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; Beef  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </h5>
+<br><br><br>
+<p>Enforcement of the Eating Constitution on January delegates. Thousands of people visit the ground to be a spectator of the spectacle representing stomatch and health richness of the body.Enforcement of the Eating Constitution on January delegates. Thousands of people visit the ground to be a spectator of the spectacle representing stomatch and health richness of the body.Enforcement of the Eating Constitution on January delegates. Thousands of people visit the ground to be a spectator of the spectacle representing stomatch and health richness of the body.</p>
+</div>
+</td>
+</tr>
+<br>
+
+<tr>
+<td><br>
+<div class="lower">
+<h6> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sushi  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </h6>
+<br><br><br>
+<p>Enforcement of the Eating Constitution on January delegates. Thousands of people visit the ground to be a spectator of the spectacle representing stomatch and health richness of the body.Enforcement of the Eating Constitution on January delegates. Thousands of people visit the ground to be a spectator of the spectacle representing stomatch and health richness of the body.Enforcement of the Eating Constitution on January delegates. Thousands of people visit the ground to be a spectator of the spectacle representing stomatch and health richness of the body.</p>
+</div>
+</td>
+</tr>
+
+</table>
+
+
+
+
+</body>
+
+</html>
